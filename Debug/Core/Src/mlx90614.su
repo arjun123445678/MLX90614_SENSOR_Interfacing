@@ -1,0 +1,10 @@
+../Core/Src/mlx90614.c:16:9:MLX90614_init	16	static
+../Core/Src/mlx90614.c:32:6:MLX90614_restart	16	static
+../Core/Src/mlx90614.c:48:9:MLX90614_crc8	24	static
+../Core/Src/mlx90614.c:69:6:MLX90614_writeWord_with_PEC	48	static
+../Core/Src/mlx90614.c:88:10:MLX90614_readEEPROM	40	static
+../Core/Src/mlx90614.c:101:9:MLX90614_writeEEPROM	16	static
+../Core/Src/mlx90614.c:129:6:MLX90614_readRAM	40	static
+../Core/Src/mlx90614.c:144:6:MLX90614_tunitToDegreeC	16	static
+../Core/Src/mlx90614.c:153:6:MLX90614_readAmbientTemperature	24	static
+../Core/Src/mlx90614.c:166:6:MLX90614_readObjTemperature	32	static
